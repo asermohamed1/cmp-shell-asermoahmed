@@ -1,3 +1,15 @@
+Custom Shell with Pipelining Support
+
+A custom Unix-like shell implemented in C that supports command execution, I/O redirection, argument parsing, and pipelining. It includes built-in command handling and robust error reporting. The shell passed a comprehensive set of automated tests covering argument handling, redirection, PATH resolution, and both single and multi-level pipelining.
+
+
+
+
+
+
+
+
+
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/oA2UhZVD)
 # Linux Process Signals
 
